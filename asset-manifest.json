@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VendorFrontend/static/css/main.480b6555.css",
+    "main.js": "/VendorFrontend/static/js/main.0f5a0abb.js",
+    "index.html": "/VendorFrontend/index.html",
+    "main.480b6555.css.map": "/VendorFrontend/static/css/main.480b6555.css.map",
+    "main.0f5a0abb.js.map": "/VendorFrontend/static/js/main.0f5a0abb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.480b6555.css",
+    "static/js/main.0f5a0abb.js"
+  ]
+}
